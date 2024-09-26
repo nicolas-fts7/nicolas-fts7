@@ -2,7 +2,7 @@
 
 Meu nome é Nicolas França Telaska
 
-- Estou esudano na Alura
+- Estou estudando na Alura
 - Estou me desnvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organiação e compartilhamento do meus projetos desenvolvidos
 
@@ -10,6 +10,8 @@ Meu nome é Nicolas França Telaska
 
 nicolas.telaska@escola.pr.gov.br
 
-@nicolas.fts7 
+@nicolas.fts7
+
+![](https://media.tenor.com/hrMpWeOG6XAAAAAM/elbicho-vicotrevs.gif)
 
 
