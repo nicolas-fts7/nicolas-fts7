@@ -2,7 +2,7 @@
 
 Meu nome é Nicolas França Telaska
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desnvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organiação e compartilhamento do meus projetos desenvolvidos
 
